@@ -1,7 +1,5 @@
 ## CALCULADORA PROFISSIONAL
-Integrantes:
 
-Kesyo Urgue de Oliveira: RA 322211358
 
 
 
